@@ -1,0 +1,25 @@
+Unit Converter
+Choose your region:
+1. Metric (meters, kilograms, Celsius)
+2. Imperial (miles, pounds, Fahrenheit)
+Enter the number of your choice: 1
+
+Choose a conversion type:
+1. Length
+2. Weight
+3. Temperature
+4. Exit
+Enter your choice: 1
+Available units: ['meters', 'kilometers']
+Convert from: meters
+Convert to: kilometers
+Enter value in meters: 1000
+1000 meters = 1.00 kilometers
+
+Choose a conversion type:
+1. Length
+2. Weight
+3. Temperature
+4. Exit
+Enter your choice: 4
+Goodbye!
